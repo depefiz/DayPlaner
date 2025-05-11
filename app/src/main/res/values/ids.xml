@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textStartEndTime" type="id" />
+    <item name="textTaskName" type="id" />
+    <item name="textDuration" type="id" />
+</resources>
